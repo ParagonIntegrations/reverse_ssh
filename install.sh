@@ -6,7 +6,7 @@
 #     "192.168.1.1 ssh-rsa AAAAB..."
 # )
 HOSTS_TO_ADD=(
-"reverse.paragonintegrations.co.za,206.189.1.69 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNJo2Y8S8zFSmgmX34zgW/6Hvat+3ZsgrrevUu8Eb7oWpMRTT87jHP+/0m0gtnXMzt+LJC2KKfDrN6H5xDxU06c="
+"reverse.paragonintegrations.co.za,159.65.201.103 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGnbtrhGXYUC5fIG/zJMQoyzEbuPMY+vInOUKxpYhtgjtGOzTH9glq3114+4lPRT7wSHjzv6RZZdq6Zf+elMH6U="
 )
 
 parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
